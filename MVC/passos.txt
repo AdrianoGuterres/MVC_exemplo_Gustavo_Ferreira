@@ -1,0 +1,60 @@
+
+Descricao: Inicio da verificacao numero 0
+------------
+87396 >> 78396
+Descricao: Trocou-se o digito 8 pelo 7
+
+78396 >> 73896
+Descricao: Trocou-se o digito 8 pelo 3
+
+73896 >> 73896
+Descricao: Nao houve troca pois o numero 8 ja eh menor/igual que 9
+
+73896 >> 73869
+Descricao: Trocou-se o digito 9 pelo 6
+
+
+Descricao: Inicio da verificacao numero 1
+------------
+73869 >> 37869
+Descricao: Trocou-se o digito 7 pelo 3
+
+37869 >> 37869
+Descricao: Nao houve troca pois o numero 7 ja eh menor/igual que 8
+
+37869 >> 37689
+Descricao: Trocou-se o digito 8 pelo 6
+
+37689 >> 37689
+Descricao: Nao houve troca pois o numero 8 ja eh menor/igual que 9
+
+
+Descricao: Inicio da verificacao numero 2
+------------
+37689 >> 37689
+Descricao: Nao houve troca pois o numero 3 ja eh menor/igual que 7
+
+37689 >> 36789
+Descricao: Trocou-se o digito 7 pelo 6
+
+36789 >> 36789
+Descricao: Nao houve troca pois o numero 7 ja eh menor/igual que 8
+
+36789 >> 36789
+Descricao: Nao houve troca pois o numero 8 ja eh menor/igual que 9
+
+
+Descricao: Inicio da verificacao numero 3
+------------
+36789 >> 36789
+Descricao: Nao houve troca pois o numero 3 ja eh menor/igual que 6
+
+36789 >> 36789
+Descricao: Nao houve troca pois o numero 6 ja eh menor/igual que 7
+
+36789 >> 36789
+Descricao: Nao houve troca pois o numero 7 ja eh menor/igual que 8
+
+36789 >> 36789
+Descricao: Nao houve troca pois o numero 8 ja eh menor/igual que 9
+
